@@ -1,0 +1,20 @@
+{
+  "name": "panicbutton-exp0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsx src/exp0.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@somnia-chain/markets-sdk": "0.32.1",
+    "viem": "2.38.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.18.0",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "3.2.4"
+  }
+}

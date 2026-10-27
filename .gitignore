@@ -1,0 +1,13 @@
+# Secrets and local state never belong in the repo.
+node_modules/
+dist/
+.data/
+*.sqlite
+*.sqlite-*
+.env
+.env.*
+!.env.example
+runs/
+
+# Local scratch probes
+app/.check*.ts
