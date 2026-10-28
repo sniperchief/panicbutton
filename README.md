@@ -4,6 +4,8 @@
 
 PanicButton is an emergency exit for **dreamDEX Perps** on **Somnia Tokyo testnet** (Hideki, chain 50383). It closes your perp positions from a web terminal or a Telegram bot, warns you on Telegram before a position gets close to liquidation, and says **"closed"** only after it has checked on chain that the position is really zero.
 
+**Live:** [panicbutton-production.up.railway.app](https://panicbutton-production.up.railway.app) · open the terminal at [/app](https://panicbutton-production.up.railway.app/app). It runs against Somnia testnet with execution enabled, so closes are real testnet transactions once you link its bot address in dreamDEX.
+
 Built for the [dreamDEX Perps Builder Bounty](https://dorahacks.io/hackathon/dreamdex-perps-bounty/detail), MVP track, category **trader tools**.
 
 ---
