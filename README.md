@@ -6,6 +6,8 @@ PanicButton is an emergency exit for **dreamDEX Perps** on **Somnia Tokyo testne
 
 **Live:** [panicbutton-production.up.railway.app](https://panicbutton-production.up.railway.app) · open the terminal at [/app](https://panicbutton-production.up.railway.app/app). It runs against Somnia testnet with execution enabled, so closes are real testnet transactions once you link its bot address in dreamDEX.
 
+**Demo video:** [youtu.be/k-Kr7gaqwuA](https://youtu.be/k-Kr7gaqwuA)
+
 Built for the [dreamDEX Perps Builder Bounty](https://dorahacks.io/hackathon/dreamdex-perps-bounty/detail), MVP track, category **trader tools**.
 
 ---
