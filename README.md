@@ -102,8 +102,10 @@ npm run build
 
 ## X posts
 
-<!-- Add 2–3 post links that tag @DreamDEXSomnia before submitting. -->
-_Links are added here as the posts are published._
+Posts about PanicButton, tagging [@DreamDEXSomnia](https://x.com/DreamDEXSomnia):
+
+1. https://x.com/sniperchief_001/status/2115074087257051179
+2. https://x.com/sniperchief_001/status/2115693271267545107
 
 ## Repository
 
